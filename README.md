@@ -1,10 +1,8 @@
 # PEC3: Visionando el Futuro con las Gafas de Manovich 
 
-### Recurso de aprendizaje de Cultura Digital 
-
+### Recurso de Aprendizaje de Cultura Digital 
 
 Autor: Nils Weigand
-
 
 Fecha: Mayo 2025
 
@@ -15,24 +13,34 @@ Fecha: Mayo 2025
 ## Introducción
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En su libro *El Software Toma el Mando* de 2013, Lev Manovich nos habla de la **hibridación de medios**. La define como la fusión de lenguajes, técnicas y formatos de medios ya existentes en nuevas configuraciones que van más allá de una simple yuxtaposición.
+En este ensayo exploraremos dos casos contemporáneos: **Unreal Engine** y **Kickstarter**.
 
+<br>
 
 ## Caso 1 - Unreal Engine
+### La Convergencia de Medios en un Metaverso Creativo
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Unreal Engine es un motor de renderizado en tiempo real que, con su quinta iteración, trasciente el ámbito de los videojuegos más que nunca.
 
-
+<br>
 
 ## Caso 2 - Kickstarter
+### Crowdfunding como Plataforma Híbrida de Creación Colectiva
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Multimedia Narrativa**
 
+**Interacción Social**
+
+**ecosistema participativo**
+
+<br>
 
 ## Conclusión
 
 Lorem ipsum
 
+<br>
 
 ## Bibliografía y Referencias
 
