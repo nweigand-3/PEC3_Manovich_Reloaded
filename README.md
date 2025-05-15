@@ -10,6 +10,9 @@ Mayo, 2025
 
 ## Introducción
 En su libro *El Software Toma el Mando* de 2013, Lev Manovich nos habla de la **hibridación de medios**. La define como la fusión de lenguajes, técnicas y formatos de medios ya existentes en nuevas configuraciones que van más allá de una simple yuxtaposición.
+
+Para nosotros, que trabajamos en la multimedia, es imprescindible saber diferenciar un concepto del otro. Podemos entender los medios híbridos como aquellos que **interactúan a nivel algorítmico** y generan experiencias coherentes **irreductibles a sus componentes originales**.
+
 En este ensayo exploraremos dos casos contemporáneos a fin de adentrarnos en este concepto: **Unreal Engine** y **Kickstarter**.
 
 <br>
@@ -22,10 +25,9 @@ En este ensayo exploraremos dos casos contemporáneos a fin de adentrarnos en es
 
 ### Sobre Unreal Engine
 
-Unreal Engine es un motor de renderizado en tiempo real que, con su quinta iteración, trasciente el ámbito de los videojuegos más que nunca. Pero uno a uno, en 1998 salió *Unreal*, el primer juego hecho con este motor. Pasados los años, UE ganó popularidad y fue usado para los videojuegos más impresionantes y técnicamente impensables. Este prestigio nunca dejó de crecer, por lo que hoy es uno de los motores más utilizados aparte de Unity y Godot.
+Unreal Engine es un motor de renderizado en tiempo real que, con su quinta iteración, trasciende el ámbito de los videojuegos más que nunca. En 1998 salió *Unreal*, el primer juego hecho con este motor. Pasados los años, UE ganó popularidad y fue usado para los videojuegos más impresionantes y técnicamente impensables. Este prestigio nunca dejó de crecer, por lo que hoy es uno de los motores más utilizados aparte de Unity y Godot.
 
-Con los años, UE se ha convertido en una herramienta pionera para diversas industrias y, cada vez más, toma el rol de un **metamedio transversal**.
-UE5 actúa como un **metamedio** que ofrece un entorno unificado para desarrolladores de videojuegos, cineastas, arquitectos y artistas de varios ámbitos más.
+Con los años, UE se ha convertido en una herramienta pionera para diversas industrias y, cada vez más, tomó el rol de un **metamedio transversal**. Lo podemos definir así al ofrecer un entorno unificado para desarrolladores de videojuegos, cineastas, arquitectos y artistas de varios ámbitos más. Pero no solo hibrida industrias, es una auténtica navaja suiza a nivel tecnológico y coincide en muchos aspectos con las téorias de las que Manovich nos habla.
 
 ![Escena digital escaneada con el proceso de fotogrametría](https://virtual-lands-3d.com/assets/images/articles/quixel-assets.jpg)
 <br>
@@ -35,9 +37,9 @@ UE5 actúa como un **metamedio** que ofrece un entorno unificado para desarrolla
 
 **Nanite** es un sistema revolucionario que reemplaza niveles de detalle (LODs) para objetos 3D. La idea es que objetos deben ser más detallados cuando el jugador esté justo en frente de ellos y menos cuando esté a distancia. Mientras que el proceso de crear LODs a mano es muy tedioso, Nanite permite automatizar este proceso con un solo clic.
 
-Este sistema se empareja perfectamente con los *Megascans* de Quixel, una librería extensa de contenido digital escaneado en la vida real. Estos objetos de **fotogrametría** facilmente pueden llegar a tener billones de polígonos, por lo que es indispensable tener algúna abstracción para ahorrar recursos computativos. Vemos, asimismo, como **se hibrida la precisión fotográfica con la flexibilidad digital**.
+Este sistema se empareja perfectamente con los *Megascans* de Quixel, una librería extensa de contenido digital escaneado en la vida real. Estos objetos de **fotogrametría** fácilmente pueden llegar a tener billones de polígonos, por lo que es indispensable tener alguna abstracción para ahorrar recursos computacionales. Una vez hayamos importado todos los objetos con los ajustes correspondientes, podemos disfrutar de unos visuales que **nublan la línea entre digital y real**, reproducibles hasta en dispositivos menos potentes.
 
-Según Manovich, sucede una **reconfiguración de las estructuras de datos**, pues el objeto escaneado pasa de una malla estática a ser un elemento dinámico que interactúa precisamente con su entorno digital.
+Vemos, asimismo, como **se hibrida la precisión fotográfica con la flexibilidad digital**. Según Manovich, sucede una **reconfiguración de las estructuras de datos**, pues el objeto escaneado pasa de una malla estática a ser un elemento dinámico que interactúa precisamente con su entorno digital.
 
 <br>
 
@@ -57,7 +59,7 @@ Como afirma Manovich, «una vez traducidas a software, las técnicas de medios e
 
 ### Sobre Kickstarter
 
-Kickstarter no solo es una plataforma de financiación, sino un **metadmedio social y corporativo**. Analizando el funcionamiento de este espacio web, Manovich diría que «se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores con técnicas de manipulación de la información para formar nuevas combinaciones» (Manovich, 2013, pp. 193-194). A continuación veremos reflejado en tres capas de Kickstarter lo que esto quiere decir concretamente.
+Kickstarter no solo es una plataforma de financiación, sino un **metamedio social y corporativo**. Analizando el funcionamiento de este espacio web, Manovich diría que «se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores con técnicas de manipulación de la información para formar nuevas combinaciones» (Manovich, 2013, pp. 193-194). A continuación, veremos reflejado en tres capas de Kickstarter lo que esto quiere decir concretamente.
 
 **Multimedia Narrativa**
 
