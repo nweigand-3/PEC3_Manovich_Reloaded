@@ -60,7 +60,7 @@ Kickstarter no solo es una plataforma de financiación, sino un **metadmedio soc
 
 A lo largo del capítulo 3 de *El Software Toma el Mando*, Manovich afirma que algunos de los híbridos emergentes «sobreviven y acaban siendo replicados» (Manovich, 2013, p. 195). ???
 
-En definitiva, ambos casos demuestran que la hibridación no es un fenómeno técnico temporal, sino la esencia de la cultura digital contemporánea. Hemos identificado claramente cómo estos nuevos medios combinados forman el núcleo de la evolución e innovación en la era del software. Tal y como predijo Manovich, la capacidad de los medios para «intercambiar propiedades y crear nuevas estructuras» (Manovich, 2013, p. 199) sigue siendo el motor de la innovación en la era del software.
+En definitiva, ambos casos demuestran que la hibridación no es un fenómeno técnico temporal, sino la esencia de la cultura digital contemporánea. Tal y como predijo Manovich, la capacidad de los medios para «intercambiar propiedades y crear nuevas estructuras» (Manovich, 2013, p. 199) sigue siendo el motor de la innovación en la era del software.
 
 <br>
 
