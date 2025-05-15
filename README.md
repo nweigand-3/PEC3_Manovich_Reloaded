@@ -45,9 +45,11 @@ Vemos, asimismo, como **se hibrida la precisión fotográfica con la flexibilida
 
 Lumen
 
-### Puntos Clave
+### Puntos Clave y Valoración
 
 Como afirma Manovich, «una vez traducidas a software, las técnicas de medios empiezan a actuar como una especie dentro de una ecología común» (Manovich, 2013, p. 180). En UE5, donde el modelado 3D, la fotogrametría, la cinematografía y la IA coexisten y se realimentan, pasa exactamente esto. Además, señala que los híbridos exitosos «se transforman en nuevas convenciones» (Manovich, 2013, p. 200), y vemos cómo UE ha normalizado esta fusión entre entretenimiento, arte y tecnología.
+
+Para mí, como desarrollador de un videojuego AA, las diversas herramientas que ofrece UE son de grandísimo valor. Los creadores ya no somos limitados a diseñar un *shooter* o *battle royale* que venga con los recursos de aprendizaje, sino que podemos crear cualquier experiencia imaginable sin necesidad de software caro o un equipo de expertos. Esta libertad se debe a la hibridación amplia que recoge todo lo necesario en un espacio central accesible y ofrece una herramienta muy completa para todo trabajo creativo.
 
 <br>
 
@@ -67,7 +69,7 @@ Kickstarter no solo es una plataforma de financiación, sino un **metamedio soci
 
 **ecosistema participativo**
 
-### Puntos Clave
+### Puntos Clave y Valoración
 
 <br>
 
