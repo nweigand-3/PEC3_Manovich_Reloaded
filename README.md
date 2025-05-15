@@ -39,15 +39,21 @@ Con los años, UE se ha convertido en una herramienta pionera para diversas indu
 
 Este sistema se empareja perfectamente con los *Megascans* de Quixel, una librería extensa de contenido digital escaneado en la vida real. Estos objetos de **fotogrametría** fácilmente pueden llegar a tener billones de polígonos, por lo que es indispensable tener alguna abstracción para ahorrar recursos computacionales. Una vez hayamos importado todos los objetos con los ajustes correspondientes, podemos disfrutar de unos visuales que **nublan la línea entre digital y real**, reproducibles hasta en dispositivos menos potentes.
 
-Vemos, asimismo, como **se hibrida la precisión fotográfica con la flexibilidad digital**. Según Manovich, sucede una **reconfiguración de las estructuras de datos**, pues el objeto escaneado pasa de una malla estática a ser un elemento dinámico que interactúa precisamente con su entorno digital.
+Vemos, asimismo, como **se hibrida la precisión fotográfica con la flexibilidad digital**. Según Manovich, sucede una **reconfiguración de las estructuras de datos**, pues el objeto escaneado pasa de una malla estática a ser un elemento dinámico que interactúa precisamente con su entorno digital. La fotografía inical, siendo nuestro medio físico, se convierte en un objeto virtual optimizado por algoritmos al pasar por lógicas computacionales.
 
 <br>
 
-Lumen
+**Lumen** es el nuevo sistema de iluminación global de UE5. Desde su aparición, cambió por completo la manera de implementar la luz en entornos virtuales. Antes, la representación realista de la luz en videojuegos era un proceso muy costoso para el ordenador. El famoso *ray tracing*, por ejemplo, es un modo de iluminación que requiere hardware bastante avanzado.
+
+Ahora que está Lumen, podemos **simular los comportamientos físicos de la luz** de una manera exacta y eficiente. Sean reflexiones difusas en superficies rugosas, refracciones en vidrio, o dispersión volumétrica en niebla. Lo más destacable será, sin embargo, que todo esto funciona en tiempo real y es dinámicamente programable. Tradicionalmente, solo conocemos esta fidelidad lumínica del cine, donde las imagenes, incluida la luz, pasan por el renderizado offline.
+
+Con este avance, la iluminación se hace un **medio activo sofisticado**, en vez de ser solo un recurso estático. Resulta una hibridación técnica donde **el cine, la física y la interactividad** se fusionan en un nuevo elemento que permite crear una narrativa visual como en películas reales. El resultado reafirma el pensamiento de Manovich, el cual dice que «los medios híbridos intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos» (Manovich, 2013, p. 186).
+
+<br>
 
 ### Puntos Clave y Valoración
 
-Como afirma Manovich, «una vez traducidas a software, las técnicas de medios empiezan a actuar como una especie dentro de una ecología común» (Manovich, 2013, p. 180). En UE5, donde el modelado 3D, la fotogrametría, la cinematografía y la IA coexisten y se realimentan, pasa exactamente esto. Además, señala que los híbridos exitosos «se transforman en nuevas convenciones» (Manovich, 2013, p. 200), y vemos cómo UE ha normalizado esta fusión entre entretenimiento, arte y tecnología.
+Como afirma Manovich, «una vez traducidas a software, las técnicas de medios empiezan a actuar como una especie dentro de una ecología común» (Manovich, 2013, p. 180). En UE5, donde el modelado 3D, la fotogrametría y la cinematografía coexisten y se realimentan, pasa exactamente esto. Además, señala que los híbridos exitosos «se transforman en nuevas convenciones» (Manovich, 2013, p. 200), y vemos que UE ha normalizado esta fusión entre entretenimiento, arte y tecnología en una herramienta transindustrial de referencia.
 
 Para mí, como desarrollador de un videojuego AA, las diversas herramientas que ofrece UE son de grandísimo valor. Los creadores ya no somos limitados a diseñar un *shooter* o *battle royale* que venga con los recursos de aprendizaje, sino que podemos crear cualquier experiencia imaginable sin necesidad de software caro o un equipo de expertos. Esta libertad se debe a la hibridación amplia que recoge todo lo necesario en un espacio central accesible y ofrece una herramienta muy completa para todo trabajo creativo.
 
