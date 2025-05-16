@@ -129,16 +129,22 @@ En definitiva, ambos casos demuestran que la hibridación no es un fenómeno té
 
 * Manovich, L. (2013) *El Software toma el mando*. [libro] Barcelona: Editorial UOC.
   <br> Última consulta: 15.05.2025
+* Manovich, L. (2025) *Lev Manovich*. [página web] Lev Manovich.
+  <br> https://manovich.net/
+  <br> Última consulta: 16.05.2025
+* Gea, M. (2022) *Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto* [artículo web] Editorial Universidad de Granada.
+  <br> https://github.com/mgea/CCpapers/tree/main/MetodologiaCrowdsourcing
+  <br> Última consulta: 15.05.2025
 * Adell, F. (2024) *Fundamentos y evolución de la multimedia*. [recurso de aprendizaje textual] Barcelona: Universitat Oberta de Catalunya (FUOC).
   <br> https://cultura-digital.aula.uoc.edu/es/
   <br> Última consulta: 14.05.2025
 * Epic Games (2021) *Introducing The Matrix Awakens: An Unreal Engine 5 Experience*. [artículo web] Epic Games, Unreal Engine.
   <br> https://www.unrealengine.com/en-US/blog/introducing-the-matrix-awakens-an-unreal-engine-5-experience
   <br> Última consulta: 14.05.2025
-* Epic Games (fecha desconocida) *Lumen Global Illumination and Reflections*. [artículo web explicativo] Epic Games, Unreal Engine.
+* Epic Games (2025) *Lumen Global Illumination and Reflections*. [artículo web explicativo] Epic Games, Unreal Engine.
   <br> https://dev.epicgames.com/documentation/en-us/unreal-engine/lumen-global-illumination-and-reflections-in-unreal-engine
   <br> Última consulta: 14.05.2025
-* Epic Games (fecha desconocida) *Nanite Virtualized Geometry*. [artículo web explicativo] Epic Games, Unreal Engine.
+* Epic Games (2025) *Nanite Virtualized Geometry*. [artículo web explicativo] Epic Games, Unreal Engine.
   <br> https://dev.epicgames.com/documentation/en-us/unreal-engine/nanite-virtualized-geometry-in-unreal-engine
   <br> Última consulta: 14.05.2025
 * Wikipedia (2025) *Kickstarter*. [artículo web] Wikipedia.
