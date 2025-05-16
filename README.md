@@ -93,9 +93,9 @@ Desde la vista de Manovich, estos pitches no son solo multimedia, sino **híbrid
 <br>
 *Anuncio de contenido exclusivo para partidarios*
 
-En la sección de comentarios de cada campaña emerge un foro colaborativo. Ahí, los creadores e interesados pueden dialogar en tiempo real, compartir y responder preguntas, y hacer sugerencias que, seguramente, se incorporan al desarrollo del proyecto. De este modo, el pitch no solo canaliza fondos, pero también faculta a los participantes como coautores del proyecto.
+En la sección de comentarios de cada campaña emerge un foro colaborativo. Ahí, los creadores e interesados pueden dialogar en tiempo real, compartir y responder preguntas, y hacer sugerencias que, seguramente, se incorporan al desarrollo del proyecto. De este modo, el pitch no solo canaliza fondos, pero también faculta a los participantes como **coautores** del proyecto.
 
-Otro mecanismo que refuerza el sentido de pertenencia a una comunidad activa es el progreso gamificado de la campaña. Las metas de financiación introducen tanto mejoras en el producto como hitos narrativos. Cada vez que se haya alcanzado un objetivo monetario, se desbloquea algún contenido nuevo para los donantes. Esto hace que el acto de financiar se convierte en una participación responsiva que le devuelva algo al cliente.
+Otro mecanismo que refuerza el sentido de pertenencia a una comunidad activa es el progreso gamificado de las campañas. Las metas de financiación introducen tanto mejoras en el producto como hitos narrativos. Cada vez que se haya alcanzado un objetivo monetario, se desbloquea algún contenido nuevo para los donantes. Esto hace que el acto de financiar se convierte en una **participación responsiva** que le devuelva algo al cliente.
 
 Observamos cómo la **softwarización** de los medios crea un ecosistema compartido en el que diversas técnicas se combinan para formar una nueva **convención cultural**. Con las palabras de Manovich, «el proceso de evolución de los medios también produce nuevas técnicas para la autoría, la edición, la compartición y la colaboración» (Manovich, 2013, p. 184).
 
@@ -121,7 +121,7 @@ En UE5, donde el modelado 3D, la fotogrametría y la cinematografía coexisten y
 
 En Kickstarter, cada campaña es un microensayo multimedia que combina narrativa, finanzas, colaboración y participación. Por tanto, sus proyectos ofrecen una experiencia unificada que va mas allá de la suma de sus partes. Manovich señala que los híbridos exitosos «se transforman en nuevas convenciones» (Manovich, 2013, p. 200), y vemos que esto sucede en Kickstarter al redefinir la manera de pedir donaciones.
 
-En definitiva, ambos casos demuestran que la hibridación no es un fenómeno técnico temporal, sino la esencia de la cultura digital contemporánea. Tal y como predijo Manovich, la capacidad de los medios para «intercambiar propiedades y crear nuevas estructuras» (Manovich, 2013, p. 199) sigue siendo el motor de la innovación en la era del software.
+En definitiva, ambos casos demuestran que la hibridación no es un fenómeno técnico temporal, sino la esencia de la cultura digital contemporánea. Tal y como predijo Manovich, la capacidad de los medios para «intercambiar propiedades y crear nuevas estructuras» (Manovich, 2013, p. 199) sigue siendo **el motor de la innovación** en la era del software.
 
 <br>
 
