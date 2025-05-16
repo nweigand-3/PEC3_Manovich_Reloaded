@@ -11,7 +11,7 @@ Mayo, 2025
 ## Introducción
 En su libro *El Software Toma el Mando* de 2013, Lev Manovich nos habla de la **hibridación de medios**. La define como la fusión de lenguajes, técnicas y formatos de medios ya existentes en nuevas configuraciones que van más allá de una simple yuxtaposición.
 
-Para nosotros, que trabajamos en la multimedia, es imprescindible saber diferenciar un concepto del otro. Podemos entender los medios híbridos como aquellos que **interactúan a nivel algorítmico** y generan experiencias coherentes **irreductibles a sus componentes originales**.
+Para nosotros, que trabajamos en la multimedia, es imprescindible saber diferenciar un concepto del otro. Podemos entender los medios híbridos como aquellos que **interactúan a nivel algorítmico** y generan experiencias coherentes **irreductibles a sus componentes originales** (Manovich, 2013).
 
 En este ensayo exploraremos dos casos contemporáneos a fin de adentrarnos en este concepto: **Unreal Engine** y **Kickstarter**.
 
@@ -55,11 +55,11 @@ Con este avance, la iluminación se hace un **medio activo sofisticado**, en vez
 
 ### Puntos Clave y Valoración
 
-* X
+* Motor transindustrial: Unreal Engine opera como un metamedio que une videojuegos, cine, arquitectura y arte en una sola plataforma.
   
-* X
+* Tecnologías híbridas: Sistemas como Nanite y Lumen fusionan la precisión real, lógica computacional y narrativa visual en tiempo real.
   
-* X
+* Reconfiguración de medios: UE reestructura datos como escaneados, luz y assets digitales para formar experiencias propias de los medios híbridos.
 
 Para mí, como desarrollador de un videojuego AA, las diversas herramientas que ofrece UE son de grandísimo valor. Los creadores ya no somos limitados a diseñar un *shooter* o *battle royale* que venga con los recursos de aprendizaje, sino que podemos crear cualquier experiencia imaginable sin necesidad de software caro o un equipo de expertos. Esta libertad se debe a la hibridación amplia que recoge todo lo necesario en un espacio central accesible y ofrece una herramienta muy completa para todo trabajo creativo.
 
@@ -73,7 +73,9 @@ Para mí, como desarrollador de un videojuego AA, las diversas herramientas que 
 
 ### Sobre Kickstarter
 
-Kickstarter, a primera vista, se podría entender como una mera plataforma de financiación. Sin embargo, poniéndonos las gafas de Manovich, vemos que se trata de un **metamedio social y corporativo**.
+Kickstarter, a primera vista, se podría entender como una mera plataforma de financiación. Sin embargo, poniéndonos las gafas de Manovich, vemos que se trata de un **metamedio social y corporativo**. Fundado en 2009, es un espacio que une materiales de presentación, textos explicativos y actualizaciones periódicas que cuentan la historia de nuevos productos *startup*.
+
+Es una de las plataformas más usadas para la recaudación de fondos que ha permitido un gran éxito a algunos productos que, sin ella, hoy no estarían.
 
 ### De Pitches y Comunidades
 
@@ -109,13 +111,11 @@ Como creador independiente, reconozco el gran valor que aporta Kickstarter para 
 
 A lo largo del capítulo 3 de *El Software Toma el Mando*, Manovich afirma que algunos de los híbridos emergentes «sobreviven y acaban siendo replicados» (Manovich, 2013, p. 195). Este proceso de la hibridación se materializa en casos como Unreal Engine y Kickstarter, donde las fusiones persisten y se normalizan como pilares de sus respectivos ecosistemas.
 
-Como afirma Manovich, «una vez traducidas a software, las técnicas de medios empiezan a actuar como una especie dentro de una ecología común» (Manovich, 2013, p. 180). En UE5, donde el modelado 3D, la fotogrametría y la cinematografía coexisten y se realimentan, pasa exactamente esto. Además, señala que los híbridos exitosos «se transforman en nuevas convenciones» (Manovich, 2013, p. 200), y vemos que UE ha normalizado esta fusión entre entretenimiento, arte y tecnología en una herramienta transindustrial de referencia.
+En UE5, donde el modelado 3D, la fotogrametría y la cinematografía coexisten y se realimentan, surgen nuevos ecosistemas con sus respectivas especies. Esto sucede, en gran parte, al transformar prácticas de la vida real a sistemas digitales que nos parezcan familiares. Como explica Manovich, «se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores con técnicas de manipulación de la información para formar nuevas combinaciones» (Manovich, 2013, pp. 193-194). 
+
+En Kickstarter, cada campaña es un microensayo multimedia que combina narrativa, finanzas, colaboración y participación. Por tanto, sus proyectos ofrecen una experiencia unificada que va mas allá de la suma de sus partes. Manovich señala que los híbridos exitosos «se transforman en nuevas convenciones» (Manovich, 2013, p. 200), y vemos que esto sucede en Kickstarter al redefinir la manera de pedir donaciones.
 
 En definitiva, ambos casos demuestran que la hibridación no es un fenómeno técnico temporal, sino la esencia de la cultura digital contemporánea. Tal y como predijo Manovich, la capacidad de los medios para «intercambiar propiedades y crear nuevas estructuras» (Manovich, 2013, p. 199) sigue siendo el motor de la innovación en la era del software.
-
-> «Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores con técnicas de manipulación de la información para formar nuevas combinaciones.»
->
-> Manovich, 2013, pp. 193-194
 
 <br>
 
