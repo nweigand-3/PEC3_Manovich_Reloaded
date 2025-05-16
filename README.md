@@ -93,9 +93,9 @@ Desde la vista de Manovich, estos pitches no son solo multimedia, sino **híbrid
 <br>
 *Anuncio de contenido exclusivo para partidarios*
 
-En la sección de comentarios de cada campaña emerge un foro colaborativo. Ahí, los creadores e interesados pueden dialogar en tiempo real, compartir y responder preguntas, y hacer sugerencias que, seguramente, se incorporan al desarrollo del proyecto. De este modo, el pitch no solo canaliza fondos, pero también faculta a los participantes como **coautores** del proyecto.
+En la sección de comentarios de cada campaña emerge un foro colaborativo. Ahí, los creadores e interesados pueden dialogar en tiempo real, compartir y responder preguntas, y hacer sugerencias que, seguramente, se incorporan al desarrollo del proyecto. De este modo, el pitch no solo canaliza fondos, sino que también faculta a los participantes como **coautores** del proyecto.
 
-Otro mecanismo que refuerza el sentido de pertenencia a una comunidad activa es el progreso gamificado de las campañas. Las metas de financiación introducen tanto mejoras en el producto como hitos narrativos. Cada vez que se haya alcanzado un objetivo monetario, se desbloquea algún contenido nuevo para los donantes. Esto hace que el acto de financiar se convierte en una **participación responsiva** que le devuelva algo al cliente.
+Otro mecanismo que refuerza el sentido de pertenencia a una comunidad activa es el progreso gamificado de las campañas. Las metas de financiación introducen tanto mejoras en el producto como hitos narrativos. Cada vez que se haya alcanzado un objetivo monetario, se desbloquea algún contenido nuevo para los donantes. Esto hace que el acto de financiar se convierta en una **participación responsiva** que le devuelva algo al cliente.
 
 Observamos cómo la **softwarización** de los medios crea un ecosistema compartido en el que diversas técnicas se combinan para formar una nueva **convención cultural**. Con las palabras de Manovich, «el proceso de evolución de los medios también produce nuevas técnicas para la autoría, la edición, la compartición y la colaboración» (Manovich, 2013, p. 184).
 
