@@ -1,7 +1,7 @@
 # PEC3: Visionando el Futuro con las Gafas de Manovich 
 
 Nils Weigand
-
+<br>
 Grado Multimedia, Curso 24/25
 
 Mayo, 2025
@@ -75,7 +75,11 @@ Para mí, como desarrollador de un videojuego AA, las diversas herramientas que 
 
 Kickstarter, a primera vista, se podría entender como una mera plataforma de financiación. Sin embargo, poniéndonos las gafas de Manovich, vemos que se trata de un **metamedio social y corporativo**. Fundado en 2009, es un espacio que une materiales de presentación, textos explicativos y actualizaciones periódicas que cuentan la historia de nuevos productos *startup*.
 
-Es una de las plataformas más usadas para la recaudación de fondos que ha permitido un gran éxito a algunos productos que, sin ella, hoy no estarían.
+Es una de las plataformas más usadas para la recaudación de fondos que ha permitido un gran éxito a algunos productos que, sin ella, hoy no estarían. Las bicicletas de Peloton, las gafas RV *Oculus Rift* y el juego de mesa *Exploding Kittens* son solo algunos ejemplos de productos que han logrado llegar a nuestras casas. Aunque nunca haya garantías de una acción totalmente éxitosa, Kickstarter destaca, con sus herramientas versátiles, como una opción popular entre muchos creadores.
+
+![Prototipo de cartas del juego Exploding Kittens](https://i.kickstarter.com/assets/003/128/900/5cda2133a9e282215db9c5c31b7ed64c_original.jpg?fit=scale-down&origin=ugc&q=92&v=1421009784&width=680&sig=nIojIpIPWFrozmQBYX4nxLBCkhxdb1Av9%2BLHSqmZVps%3D)
+<br>
+*Prototipo de cartas del juego Exploding Kittens*
 
 ### De Pitches y Comunidades
 
@@ -85,9 +89,11 @@ Resulta un formato híbrido donde cada elemento potencia a los demás, pues el t
 
 Desde la vista de Manovich, estos pitches no son solo multimedia, sino **híbridos de medios**. Esta categorización emerge de la fusión de diferentes elementos que definen una narrativa coherente de presentación. Cada campaña es transformada en un espacio bien trabado y dinámico, ayudándose con una remezcla única de medios tradicionales.
 
+![Anuncio de contenido exclusivo para partidarios](https://i.kickstarter.com/assets/044/863/063/cf3c35b3ad058936f617817320ec3bd2_original.jpg?fit=scale-down&origin=ugc&q=92&v=1714406413&width=700&sig=fx3Xkh7gryAxSg1zN24dAIgM78F2iLVU6yLYt5Kj9tk%3D)
+<br>
+*Anuncio de contenido exclusivo para partidarios*
 
-
-Emerge un foro colaborativo en la sección de comentarios de cada campaña. Ahí, los creadores e interesados pueden dialogar en tiempo real, compartir y responder preguntas, y hacer sugerencias que, seguramente, se incorporan al desarrollo del proyecto. De este modo, el pitch no solo canaliza fondos, pero también faculta a los participantes como coautores del proyecto.
+En la sección de comentarios de cada campaña emerge un foro colaborativo. Ahí, los creadores e interesados pueden dialogar en tiempo real, compartir y responder preguntas, y hacer sugerencias que, seguramente, se incorporan al desarrollo del proyecto. De este modo, el pitch no solo canaliza fondos, pero también faculta a los participantes como coautores del proyecto.
 
 Otro mecanismo que refuerza el sentido de pertenencia a una comunidad activa es el progreso gamificado de la campaña. Las metas de financiación introducen tanto mejoras en el producto como hitos narrativos. Cada vez que se haya alcanzado un objetivo monetario, se desbloquea algún contenido nuevo para los donantes. Esto hace que el acto de financiar se convierte en una participación responsiva que le devuelva algo al cliente.
 
@@ -129,9 +135,21 @@ En definitiva, ambos casos demuestran que la hibridación no es un fenómeno té
 * Epic Games (2021) *Introducing The Matrix Awakens: An Unreal Engine 5 Experience*. [artículo web] Epic Games, Unreal Engine.
   <br> https://www.unrealengine.com/en-US/blog/introducing-the-matrix-awakens-an-unreal-engine-5-experience
   <br> Última consulta: 14.05.2025
-* Kickstarter (2025) *Kickstarter*. [artículo web] Wikipedia.
+* Epic Games (fecha desconocida) *Lumen Global Illumination and Reflections*. [artículo web explicativo] Epic Games, Unreal Engine.
+  <br> https://dev.epicgames.com/documentation/en-us/unreal-engine/lumen-global-illumination-and-reflections-in-unreal-engine
+  <br> Última consulta: 14.05.2025
+* Epic Games (fecha desconocida) *Nanite Virtualized Geometry*. [artículo web explicativo] Epic Games, Unreal Engine.
+  <br> https://dev.epicgames.com/documentation/en-us/unreal-engine/nanite-virtualized-geometry-in-unreal-engine
+  <br> Última consulta: 14.05.2025
+* Wikipedia (2025) *Kickstarter*. [artículo web] Wikipedia.
   <br> https://en.wikipedia.org/wiki/Kickstarter
   <br> Última consulta: 15.05.2025
+* Smithwrick, B. (2024) *5 Kickstarter-Funded Projects That Became Household Names*. [artículo web] Kickstarter.
+  <br> https://updates.kickstarter.com/5-kickstarter-funded-projects-that-became-household-names/
+  <br> Última consulta: 16.05.2025
+* Kickstarter Staff (2024) *Iconic Products That Started as Kickstarter Campaigns*. [artículo web] Kickstarter.
+  <br> https://updates.kickstarter.com/iconic-products-that-started-as-kickstarter-campaigns/
+  <br> Última consulta: 16.05.2025
 
 ----
 
