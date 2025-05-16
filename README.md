@@ -53,19 +53,13 @@ Con este avance, la iluminación se hace un **medio activo sofisticado**, en vez
 
 <br>
 
-> «Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores con técnicas de manipulación de la información para formar nuevas combinaciones.»
->
-> Manovich, 2013, pp. 193-194
-
-<br>
-
 ### Puntos Clave y Valoración
 
-* Pitches híbridos:
+* X
   
-* Participación activa:
+* X
   
-* Nueva convención:
+* X
 
 Para mí, como desarrollador de un videojuego AA, las diversas herramientas que ofrece UE son de grandísimo valor. Los creadores ya no somos limitados a diseñar un *shooter* o *battle royale* que venga con los recursos de aprendizaje, sino que podemos crear cualquier experiencia imaginable sin necesidad de software caro o un equipo de expertos. Esta libertad se debe a la hibridación amplia que recoge todo lo necesario en un espacio central accesible y ofrece una herramienta muy completa para todo trabajo creativo.
 
@@ -87,7 +81,9 @@ El típico **pitch** en Kickstarter utiliza videos como columna vertebral y los 
 
 Resulta un formato híbrido donde cada elemento potencia a los demás, pues el texto sirve como marco informativo, el contenido multimedia detalla componentes y estimula visualmente y las infografías resumen cifras clave. **No se trata de una simple recopilación de medios**, sino de generar un discurso persuasivo que hace sentir al mecenas parte del proceso. Asimismo, el pitch se vuelve un pequeño **metadmedio interactivo** que articula información y emoción.
 
-XXX
+Desde la vista de Manovich, estos pitches no son solo multimedia, sino **híbridos de medios**. Esta categorización emerge de la fusión de diferentes elementos que definen una narrativa coherente de presentación. Cada campaña es transformada en un espacio bien trabado y dinámico, ayudándose con una remezcla única de medios tradicionales.
+
+
 
 Emerge un foro colaborativo en la sección de comentarios de cada campaña. Ahí, los creadores e interesados pueden dialogar en tiempo real, compartir y responder preguntas, y hacer sugerencias que, seguramente, se incorporan al desarrollo del proyecto. De este modo, el pitch no solo canaliza fondos, pero también faculta a los participantes como coautores del proyecto.
 
@@ -116,6 +112,10 @@ A lo largo del capítulo 3 de *El Software Toma el Mando*, Manovich afirma que a
 Como afirma Manovich, «una vez traducidas a software, las técnicas de medios empiezan a actuar como una especie dentro de una ecología común» (Manovich, 2013, p. 180). En UE5, donde el modelado 3D, la fotogrametría y la cinematografía coexisten y se realimentan, pasa exactamente esto. Además, señala que los híbridos exitosos «se transforman en nuevas convenciones» (Manovich, 2013, p. 200), y vemos que UE ha normalizado esta fusión entre entretenimiento, arte y tecnología en una herramienta transindustrial de referencia.
 
 En definitiva, ambos casos demuestran que la hibridación no es un fenómeno técnico temporal, sino la esencia de la cultura digital contemporánea. Tal y como predijo Manovich, la capacidad de los medios para «intercambiar propiedades y crear nuevas estructuras» (Manovich, 2013, p. 199) sigue siendo el motor de la innovación en la era del software.
+
+> «Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores con técnicas de manipulación de la información para formar nuevas combinaciones.»
+>
+> Manovich, 2013, pp. 193-194
 
 <br>
 
