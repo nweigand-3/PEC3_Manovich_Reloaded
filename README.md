@@ -41,7 +41,9 @@ Este sistema se empareja perfectamente con los *Megascans* de Quixel, una librer
 
 Vemos, asimismo, como **se hibrida la precisión fotográfica con la flexibilidad digital**. Según Manovich, sucede una **reconfiguración de las estructuras de datos**, pues el objeto escaneado pasa de una malla estática a ser un elemento dinámico que interactúa precisamente con su entorno digital. La fotografía inical, siendo nuestro medio físico, se convierte en un objeto virtual optimizado por algoritmos al pasar por lógicas computacionales.
 
+![Captura de pantalla del proyecto de muestra Valley of the Ancient](http://emiliusvgs.com/wp-content/uploads/2022/04/lumen-unreal-engine-5-730x370.jpg)
 <br>
+*Captura de pantalla del proyecto de muestra Valley of the Ancient*
 
 **Lumen** es el nuevo sistema de iluminación global de UE5. Desde su aparición, cambió por completo la manera de implementar la luz en entornos virtuales. Antes, la representación realista de la luz en videojuegos era un proceso muy costoso para el ordenador. El famoso *ray tracing*, por ejemplo, es un modo de iluminación que requiere hardware bastante avanzado.
 
@@ -51,9 +53,19 @@ Con este avance, la iluminación se hace un **medio activo sofisticado**, en vez
 
 <br>
 
+> «Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores con técnicas de manipulación de la información para formar nuevas combinaciones.»
+>
+> Manovich, 2013, pp. 193-194
+
+<br>
+
 ### Puntos Clave y Valoración
 
-Como afirma Manovich, «una vez traducidas a software, las técnicas de medios empiezan a actuar como una especie dentro de una ecología común» (Manovich, 2013, p. 180). En UE5, donde el modelado 3D, la fotogrametría y la cinematografía coexisten y se realimentan, pasa exactamente esto. Además, señala que los híbridos exitosos «se transforman en nuevas convenciones» (Manovich, 2013, p. 200), y vemos que UE ha normalizado esta fusión entre entretenimiento, arte y tecnología en una herramienta transindustrial de referencia.
+* Pitches híbridos:
+  
+* Participación activa:
+  
+* Nueva convención:
 
 Para mí, como desarrollador de un videojuego AA, las diversas herramientas que ofrece UE son de grandísimo valor. Los creadores ya no somos limitados a diseñar un *shooter* o *battle royale* que venga con los recursos de aprendizaje, sino que podemos crear cualquier experiencia imaginable sin necesidad de software caro o un equipo de expertos. Esta libertad se debe a la hibridación amplia que recoge todo lo necesario en un espacio central accesible y ofrece una herramienta muy completa para todo trabajo creativo.
 
@@ -67,21 +79,37 @@ Para mí, como desarrollador de un videojuego AA, las diversas herramientas que 
 
 ### Sobre Kickstarter
 
-Kickstarter no solo es una plataforma de financiación, sino un **metamedio social y corporativo**. Analizando el funcionamiento de este espacio web, Manovich diría que «se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores con técnicas de manipulación de la información para formar nuevas combinaciones» (Manovich, 2013, pp. 193-194). A continuación, veremos reflejado en tres capas de Kickstarter lo que esto quiere decir concretamente.
+Kickstarter, a primera vista, se podría entender como una mera plataforma de financiación. Sin embargo, poniéndonos las gafas de Manovich, vemos que se trata de un **metamedio social y corporativo**.
 
-**Multimedia Narrativa**
+### De Pitches y Comunidades
 
-**Interacción Social**
+Texto
 
-**ecosistema participativo**
+<br>
+
+> «El proceso de evolución de los medios también produce nuevas técnicas para la autoría, la edición, la compartición y la colaboración.»
+>
+> Manovich, 2013, p. 184
+
+<br>
 
 ### Puntos Clave y Valoración
+
+* Pitches híbridos: Los textos, imágenes y videos contribuyen a narrativas multimedia que funcionan como verdaderos híbridos de medios. 
+  
+* Participación activa: Los comentarios y *stretch goals* convierten a los interesados en colaboradores directos del proceso creativo.
+  
+* Nueva convención: El formato de campaña se normaliza como un metamedio que integra financiación, comunicación y comunidad.
+
+Como creador independiente, reconozco el gran valor que aporta Kickstarter para la comunidad creativa. El uso de contenido multimedia, la interacción con posibles partidarios y las otras diversas funcionalidades convierten esta plataforma en un **laboratorio de cultura participativa**. Más allá de la financiación, vemos como el software actúa como el tejido entre creatividad, comunidad y las posibilidades de emancipación. Especialmente este último lo valoramos los creadores *indie*, ya que nos interesa validar nuestras ideas sin depender de grandes corporaciones.
 
 <br>
 
 ## Conclusión
 
 A lo largo del capítulo 3 de *El Software Toma el Mando*, Manovich afirma que algunos de los híbridos emergentes «sobreviven y acaban siendo replicados» (Manovich, 2013, p. 195). Este proceso de la hibridación se materializa en casos como Unreal Engine y Kickstarter, donde las fusiones persisten y se normalizan como pilares de sus respectivos ecosistemas.
+
+Como afirma Manovich, «una vez traducidas a software, las técnicas de medios empiezan a actuar como una especie dentro de una ecología común» (Manovich, 2013, p. 180). En UE5, donde el modelado 3D, la fotogrametría y la cinematografía coexisten y se realimentan, pasa exactamente esto. Además, señala que los híbridos exitosos «se transforman en nuevas convenciones» (Manovich, 2013, p. 200), y vemos que UE ha normalizado esta fusión entre entretenimiento, arte y tecnología en una herramienta transindustrial de referencia.
 
 En definitiva, ambos casos demuestran que la hibridación no es un fenómeno técnico temporal, sino la esencia de la cultura digital contemporánea. Tal y como predijo Manovich, la capacidad de los medios para «intercambiar propiedades y crear nuevas estructuras» (Manovich, 2013, p. 199) sigue siendo el motor de la innovación en la era del software.
 
