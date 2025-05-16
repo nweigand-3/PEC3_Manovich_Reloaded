@@ -85,7 +85,7 @@ Es una de las plataformas más usadas para la recaudación de fondos que ha perm
 
 El típico **pitch** en Kickstarter utiliza videos como columna vertebral y los complementa con texto explicativo y galerías de imágenes. Muestras de prototipos, arte conceptual, ejemplos de uso y gráficos de financiación construyen un **relato atractivo** como tapadera del proyecto. Además de este contenido predominantemente estático, se lanzan actualizaciones periódicas en función de un diario de desarrollo.
 
-Resulta un formato híbrido donde cada elemento potencia a los demás, pues el texto sirve como marco informativo, el contenido multimedia detalla componentes y estimula visualmente y las infografías resumen cifras clave. **No se trata de una simple recopilación de medios**, sino de generar un discurso persuasivo que hace sentir al mecenas parte del proceso. Asimismo, el pitch se vuelve un pequeño **metadmedio interactivo** que articula información y emoción.
+Resulta un formato híbrido donde cada elemento potencia a los demás, pues el texto sirve como marco informativo, el contenido multimedia detalla componentes y estimula visualmente y las infografías resumen cifras clave. **No se trata de una simple recopilación de medios**, sino de generar un discurso persuasivo que hace sentir al mecenas parte del proceso. Asimismo, el pitch se vuelve un pequeño **metamedio interactivo** que articula información y emoción.
 
 Desde la vista de Manovich, estos pitches no son solo multimedia, sino **híbridos de medios**. Esta categorización emerge de la fusión de diferentes elementos que definen una narrativa coherente de presentación. Cada campaña es transformada en un espacio bien trabado y dinámico, ayudándose con una remezcla única de medios tradicionales.
 
