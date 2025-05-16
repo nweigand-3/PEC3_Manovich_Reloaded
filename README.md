@@ -119,7 +119,7 @@ A lo largo del capítulo 3 de *El Software Toma el Mando*, Manovich afirma que a
 
 En UE5, donde el modelado 3D, la fotogrametría y la cinematografía coexisten y se realimentan, surgen nuevos ecosistemas con sus respectivas especies. Esto sucede, en gran parte, al transformar prácticas de la vida real a sistemas digitales que nos parezcan familiares. Como explica Manovich, «se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores con técnicas de manipulación de la información para formar nuevas combinaciones» (Manovich, 2013, pp. 193-194). 
 
-En Kickstarter, cada campaña es un microensayo multimedia que combina narrativa, finanzas, colaboración y participación. Por tanto, sus proyectos ofrecen una experiencia unificada que va mas allá de la suma de sus partes. Manovich señala que los híbridos exitosos «se transforman en nuevas convenciones» (Manovich, 2013, p. 200), y vemos que esto sucede en Kickstarter al redefinir la manera de pedir donaciones.
+En Kickstarter, cada campaña es un microensayo multimedia que combina narrativa, finanzas, colaboración y participación. Por tanto, sus proyectos ofrecen una experiencia unificada que va más allá de la suma de sus partes. Manovich señala que los híbridos exitosos «se transforman en nuevas convenciones» (Manovich, 2013, p. 200), y vemos que esto sucede en Kickstarter al redefinir la manera de pedir donaciones.
 
 En definitiva, ambos casos demuestran que la hibridación no es un fenómeno técnico temporal, sino la esencia de la cultura digital contemporánea. Tal y como predijo Manovich, la capacidad de los medios para «intercambiar propiedades y crear nuevas estructuras» (Manovich, 2013, p. 199) sigue siendo **el motor de la innovación** en la era del software.
 
