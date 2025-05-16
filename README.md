@@ -141,11 +141,11 @@ En definitiva, ambos casos demuestran que la hibridación no es un fenómeno té
 * Epic Games (2021) *Introducing The Matrix Awakens: An Unreal Engine 5 Experience*. [artículo web] Epic Games, Unreal Engine.
   <br> https://www.unrealengine.com/en-US/blog/introducing-the-matrix-awakens-an-unreal-engine-5-experience
   <br> Última consulta: 14.05.2025
-* Epic Games (2025) *Lumen Global Illumination and Reflections*. [artículo web explicativo] Epic Games, Unreal Engine.
-  <br> https://dev.epicgames.com/documentation/en-us/unreal-engine/lumen-global-illumination-and-reflections-in-unreal-engine
-  <br> Última consulta: 14.05.2025
 * Epic Games (2025) *Nanite Virtualized Geometry*. [artículo web explicativo] Epic Games, Unreal Engine.
   <br> https://dev.epicgames.com/documentation/en-us/unreal-engine/nanite-virtualized-geometry-in-unreal-engine
+  <br> Última consulta: 14.05.2025
+* Epic Games (2025) *Lumen Global Illumination and Reflections*. [artículo web explicativo] Epic Games, Unreal Engine.
+  <br> https://dev.epicgames.com/documentation/en-us/unreal-engine/lumen-global-illumination-and-reflections-in-unreal-engine
   <br> Última consulta: 14.05.2025
 * Wikipedia (2025) *Kickstarter*. [artículo web] Wikipedia.
   <br> https://en.wikipedia.org/wiki/Kickstarter
