@@ -159,4 +159,4 @@ En definitiva, ambos casos demuestran que la hibridación no es un fenómeno té
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
+Licencia: Creative Commons, BY-SA 4.0.
