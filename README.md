@@ -27,7 +27,7 @@ En este ensayo exploraremos dos casos contemporáneos a fin de adentrarnos en es
 
 Unreal Engine es un motor de renderizado en tiempo real que, con su quinta iteración, trasciende el ámbito de los videojuegos más que nunca. En 1998 salió *Unreal*, el primer juego hecho con este motor. Pasados los años, UE ganó popularidad y fue usado para los videojuegos más impresionantes y técnicamente impensables. Este prestigio nunca dejó de crecer, por lo que hoy es uno de los motores más utilizados aparte de Unity y Godot.
 
-Con los años, UE se ha convertido en una herramienta pionera para diversas industrias y, cada vez más, tomó el rol de un **metamedio transversal**. Lo podemos definir así al ofrecer un entorno unificado para desarrolladores de videojuegos, cineastas, arquitectos y artistas de varios ámbitos más. Pero no solo hibrida industrias, es una auténtica navaja suiza a nivel tecnológico y coincide en muchos aspectos con las téorias de las que Manovich nos habla.
+Con los años, UE se ha convertido en una herramienta pionera para diversas industrias y, cada vez más, tomó el rol de un **metamedio transversal**. Lo podemos definir así al ofrecer un entorno unificado para desarrolladores de videojuegos, cineastas, arquitectos y artistas de varios ámbitos más. Pero no solo hibrida industrias, es una auténtica navaja suiza a nivel tecnológico y coincide en muchos aspectos con las teorías de las que Manovich nos habla.
 
 ![Escena digital escaneada con el proceso de fotogrametría](https://virtual-lands-3d.com/assets/images/articles/quixel-assets.jpg)
 <br>
@@ -39,7 +39,7 @@ Con los años, UE se ha convertido en una herramienta pionera para diversas indu
 
 Este sistema se empareja perfectamente con los *Megascans* de Quixel, una librería extensa de contenido digital escaneado en la vida real. Estos objetos de **fotogrametría** fácilmente pueden llegar a tener billones de polígonos, por lo que es indispensable tener alguna abstracción para ahorrar recursos computacionales. Una vez hayamos importado todos los objetos con los ajustes correspondientes, podemos disfrutar de unos visuales que **nublan la línea entre digital y real**, reproducibles hasta en dispositivos menos potentes.
 
-Vemos, asimismo, como **se hibrida la precisión fotográfica con la flexibilidad digital**. Según Manovich, sucede una **reconfiguración de las estructuras de datos**, pues el objeto escaneado pasa de una malla estática a ser un elemento dinámico que interactúa precisamente con su entorno digital. La fotografía inical, siendo nuestro medio físico, se convierte en un objeto virtual optimizado por algoritmos al pasar por lógicas computacionales.
+Vemos, asimismo, como **se hibrida la precisión fotográfica con la flexibilidad digital**. Según Manovich, sucede una **reconfiguración de las estructuras de datos**, pues el objeto escaneado pasa de una malla estática a ser un elemento dinámico que interactúa precisamente con su entorno digital. La fotografía inicial, siendo nuestro medio físico, se convierte en un objeto virtual optimizado por algoritmos al pasar por lógicas computacionales.
 
 ![Captura de pantalla del proyecto de muestra Valley of the Ancient](http://emiliusvgs.com/wp-content/uploads/2022/04/lumen-unreal-engine-5-730x370.jpg)
 <br>
@@ -47,7 +47,7 @@ Vemos, asimismo, como **se hibrida la precisión fotográfica con la flexibilida
 
 **Lumen** es el nuevo sistema de iluminación global de UE5. Desde su aparición, cambió por completo la manera de implementar la luz en entornos virtuales. Antes, la representación realista de la luz en videojuegos era un proceso muy costoso para el ordenador. El famoso *ray tracing*, por ejemplo, es un modo de iluminación que requiere hardware bastante avanzado.
 
-Ahora que está Lumen, podemos **simular los comportamientos físicos de la luz** de una manera exacta y eficiente. Sean reflexiones difusas en superficies rugosas, refracciones en vidrio, o dispersión volumétrica en niebla. Lo más destacable será, sin embargo, que todo esto funciona en tiempo real y es dinámicamente programable. Tradicionalmente, solo conocemos esta fidelidad lumínica del cine, donde las imagenes, incluida la luz, pasan por el renderizado offline.
+Ahora que está Lumen, podemos **simular los comportamientos físicos de la luz** de una manera exacta y eficiente. Sean reflexiones difusas en superficies rugosas, refracciones en vidrio, o dispersión volumétrica en niebla. Lo más destacable será, sin embargo, que todo esto funciona en tiempo real y es dinámicamente programable. Tradicionalmente, solo conocemos esta fidelidad lumínica del cine, donde las imágenes, incluida la luz, pasan por el renderizado offline.
 
 Con este avance, la iluminación se hace un **medio activo sofisticado**, en vez de ser solo un recurso estático. Resulta una hibridación técnica donde **el cine, la física y la interactividad** se fusionan en un nuevo elemento que permite crear una narrativa visual como en películas reales. El resultado reafirma el pensamiento de Manovich, el cual dice que «los medios híbridos intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos» (Manovich, 2013, p. 186).
 
@@ -67,15 +67,15 @@ Para mí, como desarrollador de un videojuego AA, las diversas herramientas que 
 
 ## Caso 2: Kickstarter - Crowdfunding como Plataforma Híbrida de Creación Colectiva
 
-![Imágen de stock de crowdfunding](https://www.ionos.co.uk/startupguide/fileadmin/_processed_/e/5/csm_crowdfunding_d53a8bfbe4.webp)
+![Imagen de stock de crowdfunding](https://www.ionos.co.uk/startupguide/fileadmin/_processed_/e/5/csm_crowdfunding_d53a8bfbe4.webp)
 <br>
-*Imágen de stock de crowdfunding*
+*Imagen de stock de crowdfunding*
 
 ### Sobre Kickstarter
 
 Kickstarter, a primera vista, se podría entender como una mera plataforma de financiación. Sin embargo, poniéndonos las gafas de Manovich, vemos que se trata de un **metamedio social y corporativo**. Fundado en 2009, es un espacio que une materiales de presentación, textos explicativos y actualizaciones periódicas que cuentan la historia de nuevos productos *startup*.
 
-Es una de las plataformas más usadas para la recaudación de fondos que ha permitido un gran éxito a algunos productos que, sin ella, hoy no estarían. Las bicicletas de Peloton, las gafas RV *Oculus Rift* y el juego de mesa *Exploding Kittens* son solo algunos ejemplos de productos que han logrado llegar a nuestras casas. Aunque nunca haya garantías de una acción totalmente éxitosa, Kickstarter destaca, con sus herramientas versátiles, como una opción popular entre muchos creadores.
+Es una de las plataformas más usadas para la recaudación de fondos que ha permitido un gran éxito a algunos productos que, sin ella, hoy no estarían. Las bicicletas de Peloton, las gafas RV *Oculus Rift* y el juego de mesa *Exploding Kittens* son solo algunos ejemplos de productos que han logrado llegar a nuestras casas. Aunque nunca haya garantías de una acción totalmente exitosa, Kickstarter destaca, con sus herramientas versátiles, como una opción popular entre muchos creadores.
 
 ![Prototipo de cartas del juego Exploding Kittens](https://i.kickstarter.com/assets/003/128/900/5cda2133a9e282215db9c5c31b7ed64c_original.jpg?fit=scale-down&origin=ugc&q=92&v=1421009784&width=680&sig=nIojIpIPWFrozmQBYX4nxLBCkhxdb1Av9%2BLHSqmZVps%3D)
 <br>
@@ -83,7 +83,7 @@ Es una de las plataformas más usadas para la recaudación de fondos que ha perm
 
 ### De Pitches y Comunidades
 
-El típico **pitch** en Kickstarter utiliza videos como columna vertebral y los complementa con texto explicativo y galerías de imágenes. Muestras de prototipos, arte conceptual, ejemplos de uso y gráficos de financiación construyen un **relato atractivo** como tapadera del proyecto. Además de este contenido predominantemente estático, se lanzan actualizaciónes periódicas en función de un diario de desarrollo.
+El típico **pitch** en Kickstarter utiliza videos como columna vertebral y los complementa con texto explicativo y galerías de imágenes. Muestras de prototipos, arte conceptual, ejemplos de uso y gráficos de financiación construyen un **relato atractivo** como tapadera del proyecto. Además de este contenido predominantemente estático, se lanzan actualizaciones periódicas en función de un diario de desarrollo.
 
 Resulta un formato híbrido donde cada elemento potencia a los demás, pues el texto sirve como marco informativo, el contenido multimedia detalla componentes y estimula visualmente y las infografías resumen cifras clave. **No se trata de una simple recopilación de medios**, sino de generar un discurso persuasivo que hace sentir al mecenas parte del proceso. Asimismo, el pitch se vuelve un pequeño **metadmedio interactivo** que articula información y emoción.
 
