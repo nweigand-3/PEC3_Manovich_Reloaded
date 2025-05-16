@@ -11,7 +11,7 @@ Mayo, 2025
 ## Introducción
 En su libro *El Software Toma el Mando* de 2013, Lev Manovich nos habla de la **hibridación de medios**. La define como la fusión de lenguajes, técnicas y formatos de medios ya existentes en nuevas configuraciones que van más allá de una simple yuxtaposición.
 
-Para nosotros, que trabajamos en la multimedia, es imprescindible saber diferenciar un concepto del otro. Podemos entender los medios híbridos como aquellos que **interactúan a nivel algorítmico** y generan experiencias coherentes **irreductibles a sus componentes originales** (Manovich, 2013).
+Para nosotros, que trabajamos en la **multimedia**, es imprescindible saber diferenciar un concepto del otro. Podemos entender los medios híbridos como aquellos que **interactúan a nivel algorítmico** y generan experiencias coherentes **irreductibles a sus componentes originales** (Manovich, 2013).
 
 En este ensayo exploraremos dos casos contemporáneos a fin de adentrarnos en este concepto: **Unreal Engine** y **Kickstarter**.
 
@@ -115,7 +115,7 @@ Como creador independiente, reconozco el gran valor que aporta Kickstarter para 
 
 ## Conclusión
 
-A lo largo del capítulo 3 de *El Software Toma el Mando*, Manovich afirma que algunos de los híbridos emergentes «sobreviven y acaban siendo replicados» (Manovich, 2013, p. 195). Este proceso de la hibridación se materializa en casos como Unreal Engine y Kickstarter, donde las fusiones persisten y se normalizan como pilares de sus respectivos ecosistemas.
+A lo largo del capítulo 3 de *El Software Toma el Mando*, Manovich afirma que algunos de los híbridos emergentes «sobreviven y acaban siendo replicados» (Manovich, 2013, p. 195). Este proceso de la hibridación se materializa en casos como Unreal Engine y Kickstarter, donde las fusiones persisten y se normalizan como pilares de sus respectivos ámbitos.
 
 En UE5, donde el modelado 3D, la fotogrametría y la cinematografía coexisten y se realimentan, surgen nuevos ecosistemas con sus respectivas especies. Esto sucede, en gran parte, al transformar prácticas de la vida real a sistemas digitales que nos parezcan familiares. Como explica Manovich, «se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores con técnicas de manipulación de la información para formar nuevas combinaciones» (Manovich, 2013, pp. 193-194). 
 
