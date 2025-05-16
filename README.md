@@ -83,13 +83,17 @@ Kickstarter, a primera vista, se podría entender como una mera plataforma de fi
 
 ### De Pitches y Comunidades
 
-Texto
+El típico **pitch** en Kickstarter utiliza videos como columna vertebral y los complementa con texto explicativo y galerías de imágenes. Muestras de prototipos, arte conceptual, ejemplos de uso y gráficos de financiación construyen un **relato atractivo** como tapadera del proyecto. Además de este contenido predominantemente estático, se lanzan actualizaciónes periódicas en función de un diario de desarrollo.
 
-<br>
+Resulta un formato híbrido donde cada elemento potencia a los demás, pues el texto sirve como marco informativo, el contenido multimedia detalla componentes y estimula visualmente y las infografías resumen cifras clave. **No se trata de una simple recopilación de medios**, sino de generar un discurso persuasivo que hace sentir al mecenas parte del proceso. Asimismo, el pitch se vuelve un pequeño **metadmedio interactivo** que articula información y emoción.
 
-> «El proceso de evolución de los medios también produce nuevas técnicas para la autoría, la edición, la compartición y la colaboración.»
->
-> Manovich, 2013, p. 184
+XXX
+
+Emerge un foro colaborativo en la sección de comentarios de cada campaña. Ahí, los creadores e interesados pueden dialogar en tiempo real, compartir y responder preguntas, y hacer sugerencias que, seguramente, se incorporan al desarrollo del proyecto. De este modo, el pitch no solo canaliza fondos, pero también faculta a los participantes como coautores del proyecto.
+
+Otro mecanismo que refuerza el sentido de pertenencia a una comunidad activa es el progreso gamificado de la campaña. Las metas de financiación introducen tanto mejoras en el producto como hitos narrativos. Cada vez que se haya alcanzado un objetivo monetario, se desbloquea algún contenido nuevo para los donantes. Esto hace que el acto de financiar se convierte en una participación responsiva que le devuelva algo al cliente.
+
+Observamos cómo la **softwarización** de los medios crea un ecosistema compartido en el que diversas técnicas se combinan para formar una nueva **convención cultural**. Con las palabras de Manovich, «el proceso de evolución de los medios también produce nuevas técnicas para la autoría, la edición, la compartición y la colaboración» (Manovich, 2013, p. 184).
 
 <br>
 
